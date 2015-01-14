@@ -1,6 +1,7 @@
 #ifndef __GUANQIA_H__
 #define __GUANQIA_H__
 #include "cocos2d.h"
+#include "SimpleMoveControll.h"  
 #include "Player.h"
 USING_NS_CC;
 class Guanqia:public Layer{
